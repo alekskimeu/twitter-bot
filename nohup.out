@@ -18,3 +18,26 @@ Tweet by: @xaelbot
 [{'code': 327, 'message': 'You have already retweeted this Tweet.'}]
 Tweet by: @learn__together
 [{'code': 327, 'message': 'You have already retweeted this Tweet.'}]
+Tweet by: @eberetwit
+Retweeted the tweet
+Favorited the tweet
+Followed the user
+Tweet by: @xaelbot
+Retweeted the tweet
+Favorited the tweet
+Tweet by: @Taieb_Bot
+Failed to send request: HTTPSConnectionPool(host='api.twitter.com', port=443): Max retries exceeded with url: /1.1/statuses/retweet/1237290237853872128.json (Caused by NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at 0x7f25c80e1c88>: Failed to establish a new connection: [Errno -2] Name or service not known',))
+Tweet by: @learn__together
+Failed to send request: HTTPSConnectionPool(host='api.twitter.com', port=443): Max retries exceeded with url: /1.1/statuses/retweet/1237290211865792512.json (Caused by NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at 0x7f25c80e1f28>: Failed to establish a new connection: [Errno -2] Name or service not known',))
+Tweet by: @WomenCodersBot
+Failed to send request: HTTPSConnectionPool(host='api.twitter.com', port=443): Max retries exceeded with url: /1.1/statuses/retweet/1237290211501105152.json (Caused by NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at 0x7f25c80ea518>: Failed to establish a new connection: [Errno -2] Name or service not known',))
+Tweet by: @femtech_
+Failed to send request: HTTPSConnectionPool(host='api.twitter.com', port=443): Max retries exceeded with url: /1.1/statuses/retweet/1237290211475947521.json (Caused by NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at 0x7f25c80eab00>: Failed to establish a new connection: [Errno -2] Name or service not known',))
+Tweet by: @Darkcoder19
+Failed to send request: HTTPSConnectionPool(host='api.twitter.com', port=443): Max retries exceeded with url: /1.1/statuses/retweet/1237290199874293760.json (Caused by NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at 0x7f25c80eabe0>: Failed to establish a new connection: [Errno -2] Name or service not known',))
+Tweet by: @Courseverse
+Failed to send request: HTTPSConnectionPool(host='api.twitter.com', port=443): Max retries exceeded with url: /1.1/statuses/retweet/1237290189451603970.json (Caused by NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at 0x7f25c89c5128>: Failed to establish a new connection: [Errno -2] Name or service not known',))
+Tweet by: @Darkcoder19
+Failed to send request: HTTPSConnectionPool(host='api.twitter.com', port=443): Max retries exceeded with url: /1.1/statuses/retweet/1237290178957328384.json (Caused by NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at 0x7f25c8156c50>: Failed to establish a new connection: [Errno -2] Name or service not known',))
+Tweet by: @femtech_
+Failed to send request: HTTPSConnectionPool(host='api.twitter.com', port=443): Max retries exceeded with url: /1.1/statuses/retweet/1237290172196192257.json (Caused by NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at 0x7f25c8156828>: Failed to establish a new connection: [Errno -2] Name or service not known',))

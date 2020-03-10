@@ -9,6 +9,11 @@ auth.set_access_token(access_token, access_token_secret)
 api = tweepy.API(auth)
 
 
+#Follow everyone that follows the bot
+for follower in tweepy.Cursor(api.followers).items():
+    follower.follow()
+
+    
 # For loop to iterate over tweets with #freeCodeCamp, limit to 10
 terms = '#freeCodeCamp OR #100DaysofCode OR #CodeNewbie'
 for tweet in tweepy.Cursor(api.search,
