@@ -16,7 +16,7 @@ for follower in tweepy.Cursor(api.followers).items():
 
 
 # For loop to iterate over tweets with #freeCodeCamp, limit to 10
-terms = '#freeCodeCamp OR #100DaysofCode OR #CodeNewbie'
+terms = '#freeCodeCamp OR #100DaysofCode OR #CodeNewbie OR #Python OR #IoT OR #JavaScript OR #Linux OR #Programming'
 for tweet in tweepy.Cursor(api.search,
                            q=terms).items():
     
