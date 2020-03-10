@@ -27,7 +27,7 @@ for tweet in tweepy.Cursor(api.search,
         if not tweet.user.following:
             tweet.user.follow()
             print("Followed the user")
-        sleep(7200)
+        sleep(1800)
 
     except tweepy.TweepError as e:
         print(e.reason)
