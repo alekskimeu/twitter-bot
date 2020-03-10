@@ -12,7 +12,7 @@ api = tweepy.API(auth)
 # For loop to iterate over tweets with #freeCodeCamp, limit to 10
 terms = '#freeCodeCamp OR #100DaysofCode OR #CodeNewbie'
 for tweet in tweepy.Cursor(api.search,
-                           q=terms).items(10):
+                           q=terms).items():
     
     # Print out usernames of the last 10 people to use #freeCodeCamp
     try:
@@ -27,7 +27,7 @@ for tweet in tweepy.Cursor(api.search,
         if not tweet.user.following:
             tweet.user.follow()
             print("Followed the user")
-        sleep(14400)
+        sleep(7200)
 
     except tweepy.TweepError as e:
         print(e.reason)
