@@ -12,7 +12,6 @@ api = tweepy.API(auth)
 #Follow everyone that follows the bot
 for follower in tweepy.Cursor(api.followers).items():
     follower.follow()
-    sleep(5)
 
 
 # For loop to iterate over tweets with #freeCodeCamp, limit to 10
