@@ -10,8 +10,8 @@ api = tweepy.API(auth)
 
 
 #Follow everyone that follows the bot
-for follower in tweepy.Cursor(api.followers).items():
-    follower.follow()
+#for follower in tweepy.Cursor(api.followers).items():
+    #follower.follow()
 
 
 # For loop to iterate over tweets with #freeCodeCamp, limit to 10
@@ -29,10 +29,10 @@ for tweet in tweepy.Cursor(api.search,
         tweet.favorite()
         print("Favorited the tweet")
 
-        if not tweet.user.following:
-            tweet.user.follow()
-            print("Followed the user")
-        sleep(2400)
+        #if not tweet.user.following:
+           # tweet.user.follow()
+            #print("Followed the user")
+       # sleep(2400)
 
     except tweepy.TweepError as e:
         print(e.reason)
