@@ -5,7 +5,7 @@ A Twitter bot that likes & retweets tech content and follows back.
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://raw.githubusercontent.com/alekskimeu/lexbot/master/images/screenshot.png)
 
   
 ## Contributing
