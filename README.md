@@ -5,7 +5,7 @@ A Twitter bot that likes & retweets tech content and follows back.
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot]()
 
   
 ## Contributing
@@ -27,7 +27,8 @@ Sometimes I code. All the time I learn.
 
   
 ## 🔗 Links
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/https://www.linkedin.com/in/alexkimeu/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexkimeu/)
+
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/alekskimeu)
 
   
