@@ -15,6 +15,10 @@ Contributions are always welcome!
 
 Have a cool idea on how to improve this or found a bug? Go ahead & open an issue.
 
+
+## Tech Stack
+
+Python, Tweepy
   
 ## Authors
 
@@ -33,8 +37,6 @@ Sometimes I code. All the time I learn.
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/alekskimeu)
 
   
-## Tech Stack
 
-Python, Tweepy
 
   
