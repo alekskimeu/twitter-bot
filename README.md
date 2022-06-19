@@ -3,11 +3,9 @@
 
 A Twitter bot that likes & retweets tech content and follows back.
 
-## Demo
+## Live Demo
 
 - [@lexbot0](https://www.twitter.com/lexbot0)
-
-https://twitter.com/lexbot0
 
 ## Screenshots
 
